@@ -194,7 +194,7 @@ Media Queary
 @media only screen and (max-width:688px)  {
     .heading{
         width: 100%;
-        height: 100%;
+        height: max-content;
     
     }
     .head-part{
@@ -202,7 +202,7 @@ Media Queary
     }
     .nav-part{
         
-        margin-left: 150px;
+        margin-left: 130px;
     }
     .nav-part ul{
         display:grid;
